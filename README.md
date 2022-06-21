@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gpant2511
+- 👋 Hi, I’m Garima Pant(@gpant2511)
 - 👀 I’m interested in working on data science projects and python based development.
 - 🌱 I’m currently working on my Master's in Business Analytics from University of Texas at Dallas.
 - 📫 I can be reached out at g.pant2511@gmail.com
